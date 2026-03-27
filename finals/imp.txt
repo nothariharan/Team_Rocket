@@ -1,0 +1,2 @@
+Wayanad Max Predicted Risk: 0.1140
+Puthumala Max Predicted Risk: 0.0559
